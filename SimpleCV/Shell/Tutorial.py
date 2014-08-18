@@ -94,7 +94,7 @@ def tutorial_image():
 
     print lb
     print "Correct! You just loaded SimpleCV logo into memory."
-    print "Let's try it to use one of your images. There are different ways to"
+    print "Let's try it on one of your images. There are different ways to"
     print "do that. You can try, for example:"
     print lb
     print "img = Image(URL_TO_MY_PICTURE) or img = Image(PATH_TO_MY_PICTURE)"
