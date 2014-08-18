@@ -229,8 +229,9 @@ def tutorial_copy():
 
     print lb
     print "Correct, you just cloned an image into memory."
-    print "You need to be careful when using this method though as using as a"
-    print "reference vs. a copy.  For instance, if you just typed:"
+    print "You need to be careful when using this method to ensure that you"
+    print "actually made a copy vs. a reference to the same image."
+    print "For instance, if you just typed:"
     print lb
     print "clone = img"
     print lb
